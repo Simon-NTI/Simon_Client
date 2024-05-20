@@ -42,6 +42,7 @@ public class Simon_Client {
                     break;
                 }
 
+
                 // Response from server
                 System.out.println(bufferedReader.readLine());
 
